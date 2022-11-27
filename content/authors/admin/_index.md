@@ -11,9 +11,6 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com.br/citations?user=wXQnnTUAAAAJ&hl
-  - icon: lattes
-    icon_pack: ai
-    link: http://lattes.cnpq.br/2171782600728348
   - icon: dblp
     icon_pack: ai
     link: https://dblp.uni-trier.de/pid/53/900.html
