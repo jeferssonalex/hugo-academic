@@ -52,8 +52,7 @@ highlight_name: true
 title: Jefersson A. dos Santos
 email: jefersson@ieee.org
 ---
-
-I'm an Associate Professor in the Department of Computer Science at Universidade Federal de Minas Gerais, Brazil. I'm also the head and founder of the {{< staticref "http://patreo.dcc.ufmg.br" "newtab" >}}Laboratory of Pattern Recognition and Earth Observation (PATREO){{< /staticref >}}.
+I'm currently a Lecturer in the Computing Science and Mathematics Division at University of Stirling, Scotland, UK. I'm also the head and founder of the {{< staticref "http://patreo.dcc.ufmg.br" "newtab" >}}Laboratory of Pattern Recognition and Earth Observation (PATREO){{< /staticref >}}.
 
 My research balances both computational challenges and their applications. Besides always aiming at excellence and impacting publications in Computer Science, I am especially interested in inter-, cross-, multidisciplinary research. I see the connection with other areas of knowledge as an opportunity to develop cutting-edge research with high possibilities for impacting directly on economic, social, and environmental aspects.
 
