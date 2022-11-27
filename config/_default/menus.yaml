@@ -6,13 +6,13 @@
 main:
   - name: Research
     url: '#projects'
-    weight: 30
-  - name: Team
-    url: 'http://patreo.dcc.ufmg.br/members/'
     weight: 50
+#  - name: Team
+#    url: 'http://patreo.dcc.ufmg.br/members/'
+#    weight: 50
   - name: Publications
     url: '#publications'
-    weight: 50
+    weight: 30
   - name: Teaching
     url: '#courses'
     weight: 60
