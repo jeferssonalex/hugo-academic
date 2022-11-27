@@ -1,5 +1,5 @@
 ---
-avatar_filename: jefersson.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
