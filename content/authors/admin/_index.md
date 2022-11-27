@@ -36,8 +36,8 @@ social:
     display:
       header: true
 organizations:
-  - name: Universidade Federal de Minas Gerais
-    url: https://ufmg.br
+  - name: University of Stirling
+    url: https://www.stir.ac.uk/
 education:
   courses:
     - course: Ph.D. in Computer Science
@@ -53,7 +53,7 @@ education:
 superuser: true
 highlight_name: true
 title: Jefersson A. dos Santos
-email: jefersson@dcc.ufmg.br
+email: jefersson@ieee.org
 ---
 
 I'm an Associate Professor in the Department of Computer Science at Universidade Federal de Minas Gerais, Brazil. I'm also the head and founder of the {{< staticref "http://patreo.dcc.ufmg.br" "newtab" >}}Laboratory of Pattern Recognition and Earth Observation (PATREO){{< /staticref >}}.
